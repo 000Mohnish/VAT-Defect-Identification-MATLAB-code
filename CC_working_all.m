@@ -1,3 +1,4 @@
+%%For CC negative curvature T0>T1
 %% USE this working with two given input (with w/sin(theta))
 % =========================================================================
 % AFP GENERATION - FULL PLATE POPULATION (SYMMETRIC GAPS)
