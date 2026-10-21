@@ -1,3 +1,4 @@
+%%For CC positive curvature T1>T0
 %% Use it For positive curvature--------------------------------------------------------------------------
 % AFP GENERATION - UNIFIED BINARY MASK WITH DUAL DIMENSIONS
 % Handles Positive/Negative Curvature + Separate Canvas Trimming
