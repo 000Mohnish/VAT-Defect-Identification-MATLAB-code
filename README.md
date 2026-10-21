@@ -5,7 +5,7 @@ This repository contains MATLAB scripts for the generation and analysis of Autom
 ## Included Files
 
 *   **`CC_negative_curvature.m`** & **`CC_positive_curvature.m`**
-    These scripts identify AFP-manufactured, one-sided tow drop gap defect regions generated using a constant curvature (CC) path for negative ($T_0 > T_1$) and positive curvature ($T_1 > T_0$) [Update these inequalities to match your convention]. The scripts generate binary images where the black area represents the gap-defect region and the white area represents the pristine composite region.
+    These scripts identify AFP-manufactured, one-sided tow drop gap defect regions generated using a constant curvature (CC) path for negative ($T_0 > T_1$) and positive curvature ($T_1 > T_0$). The scripts generate binary images where the black area represents the gap-defect region and the white area represents the pristine composite region.
 
 *   **`LVF_new_area2.m`**
     This script identifies AFP-manufactured gap and overlap defect regions based on different shifting tangencies generated using a linearly varying fiber (LVF) path, outputting the corresponding binary image.
