@@ -1,3 +1,4 @@
+%% To convert binary image into patch based greyscale image and gives spreadsheet of defect area percentage to compute the defect based material property in finite element analysis module
 function image_grid_analysis_tool_rec_2()
 % IMAGE GRID ANALYSIS TOOL - MATLAB Version
 % Modified to handle custom Row/Column inputs, generating rectangular 
