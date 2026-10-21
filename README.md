@@ -2,6 +2,10 @@
 
 This repository contains MATLAB scripts for the generation and analysis of Automated Fiber Placement (AFP) manufacturing defects in Variable Angle Tow (VAT) composite laminates.
 
+## Documentation
+
+For complete, step-by-step instructions on how to configure variables, execute the defect generation scripts, and run the grid analysis tool, please read the **[User Manual](user_manual.md)**.
+
 ## Included Files
 
 *   **`CC_negative_curvature.m`** & **`CC_positive_curvature.m`**
